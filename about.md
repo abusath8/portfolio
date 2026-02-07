@@ -3,45 +3,43 @@ title: "About Me"
 ---
 
 ## Background
+![Headshot of Your Name](linkedin_pp.jpg)
 
-Write a brief introduction about yourself here. Include:
 
-- Your academic background
-- Your interest in data science
-- Your career goals
-- Any relevant experience or projects
+I am an Applied Mathematics student with a minor in Statistics, passionate about turning messy data into clear insights. With a strong foundation in mathematics, Python, R, and SQL, I am actively seeking opportunities to grow as a data scientist. I love using technical skills to support data-driven decision-making.
+
+I have experience in data science through both internships and research, and I am comfortable learning new tools and data systems quickly. I am especially interested in what data can reveal and predict, and I’m excited to bring curiosity, initiative, and a commitment to high-quality work to the workforce.
 
 ## Education
 
-- **[Your Degree]** - [University Name], [Year]
-- **Relevant Coursework**: Statistics, Data Analysis, Programming, etc.
+- **Applied and Computational Mathematics** - Brigham Young University, 2026
+- **Relevant Coursework**: Model Dynamics (Python), Statistical Modeling (R), Computation and Optimization (Python), Algorithm Design and Optimization (Python), Probability and Inference (R), Linear and Nonlinear Algebra (Python)
 
 ## Skills & Interests
 
 ### Technical Skills
 - **Programming**: Python
 - **Data Analysis**: Pandas, NumPy
-- **Visualization**: Matplotlib, Seaborn
-- **Machine Learning**: Scikit-learn
+- **Visualization**: Power BI, Matplotlib, Seaborn
+- **Machine Learning**: Scikit-learn, XGBoost, Random Forests, PCA, K-Means Clustering, Naive Bayes, Linear and Logistic Regression
 - **Tools**: Jupyter Notebooks, Git/GitHub
 
 ### Areas of Interest
-- [Your specific interests, e.g., environmental data, healthcare analytics, finance, etc.]
-- [Other areas you're curious about]
+- People data, social impact analytics, and applied data science for decision-making
+- Data visualization, predictive modeling
 
 ## Goals
 
 Describe what you hope to achieve through your data science journey:
 
-- Short-term learning objectives
-- Long-term career aspirations
-- Types of problems you want to solve
+- Deepen my skills in SQL, Python, and modeling for data analysis
+- Work on data-driven projects that inform decisions in education, research, or socially impactful organizations
 
 ## Contact
 
-- **Email**: your.email@example.com
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Email**: busathannie@gmail.com
+- **GitHub**: [https://github.com/abusath8](https://github.com/your-username)
+- **LinkedIn**: [https://github.com/abusath8](https://linkedin.com/in/your-profile)
 
 ---
 
