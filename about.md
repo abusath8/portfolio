@@ -32,7 +32,7 @@ I have experience in data science through both internships and research, and I a
 
 Describe what you hope to achieve through your data science journey:
 
-- Deepen my skills in SQL, Python, and modeling for data analysis
+- I hope to deepen my skills in SQL, Python, and modeling for data analysis
 - Work on data-driven projects that inform decisions in education, research, or socially impactful organizations
 
 ## Contact
