@@ -5,6 +5,7 @@ project:
 website:
   title: "Annie Busath - Data Science Portfolio"
   description: "A showcase of my data science projects and learning journey"
+  site-url: https://abusath8.github.io/portfolio/
   
   navbar:
     background: primary
