@@ -3,7 +3,6 @@ title: "About Me"
 ---
 
 ## Background
-![Headshot of Your Name](linkedin_pp.jpg)
 
 
 I am an Applied Mathematics student with a minor in Statistics, passionate about turning messy data into clear insights. With a strong foundation in mathematics, Python, R, and SQL, I am actively seeking opportunities to grow as a data scientist. I love using technical skills to support data-driven decision-making.
@@ -40,6 +39,8 @@ Describe what you hope to achieve through your data science journey:
 - **Email**: busathannie@gmail.com
 - **GitHub**: [https://github.com/abusath8](https://github.com/your-username)
 - **LinkedIn**: [https://github.com/abusath8](https://linkedin.com/in/your-profile)
+
+![Headshot of Your Name](linkedin_pp.jpg)
 
 ---
 
